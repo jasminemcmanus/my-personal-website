@@ -210,7 +210,29 @@ section#intro {
     background-color: #D9C3B0;
 }
 
-/* skills section styling */
+/* experience section styling */
+
+.position-header {
+    font-weight: bold;
+    color: #734429;
+    clear: both;
+    padding: 10px 0px;
+}
+
+.position-details {
+    padding-bottom: 40px;
+}
+
+.position-company {
+    float: left
+}
+
+.position-date {
+    float: right
+
+}
+
+/* contact section styling */
 
 form {
     padding: 40px;
